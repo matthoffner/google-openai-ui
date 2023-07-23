@@ -1,15 +1,3 @@
----
-title: google clone
-emoji: 📚🎩
-colorFrom: yellow
-colorTo: indigo
-sdk: docker
-app_port: 3000
-pinned: false
----
-
-![](./public/readme.png)
-
 # google-openai-ui
 
 Diet Coke and Taco Bell. A Google clone with OpenAI.
